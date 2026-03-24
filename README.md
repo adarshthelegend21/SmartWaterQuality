@@ -63,7 +63,7 @@ The collected data is processed and displayed, helping users determine whether t
 
 ---
 # Author
-ADARSH KUMAR YADA
+ADARSH KUMAR YADAV
 
 ## ⭐ Conclusion
 
